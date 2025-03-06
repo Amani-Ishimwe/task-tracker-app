@@ -14,4 +14,4 @@ Commands:
   list-done       listing the done tasks
   list-undone     For listing the undone tasks
   help [command]  display help for command
-https://github.com/Amani-Ishimwe/task-tracker-app.git
+https://roadmap.sh/projects/task-tracker
